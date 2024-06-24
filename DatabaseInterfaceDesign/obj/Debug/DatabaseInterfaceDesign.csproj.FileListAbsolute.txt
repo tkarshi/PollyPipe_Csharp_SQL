@@ -1,0 +1,79 @@
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.exe.config
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.exe
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.pdb
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.AssemblyReference.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.SuggestedBindingRedirects.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.HomePageForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.LoginPageForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.MainMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.Properties.Resources.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.GenerateResource.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.CoreCompileInputs.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.exe
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.pdb
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.CustomerForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EquipmentForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EquipmentMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstallationForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstManDetForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EqTypeForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffTypeForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EqRequirementForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstallationStaffRequirement.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.exe.config
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.exe
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.pdb
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.AssemblyReference.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.SuggestedBindingRedirects.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.CustomerForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EquipmentForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EqRequirementForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EqTypeForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EquipmentMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.HomePageForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstallationStaffRequirement.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstallationForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstManDetForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.LoginPageForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.MainMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.Properties.Resources.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffMenuForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffTypeForm.resources
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.GenerateResource.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.CoreCompileInputs.cache
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.exe
+E:\ESOFT\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.pdb
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.exe.config
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.exe
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\bin\Debug\DatabaseInterfaceDesign.pdb
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.AssemblyReference.cache
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.CustomerForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EquipmentForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EqRequirementForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EqTypeForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.EquipmentMenuForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.HomePageForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstallationStaffRequirement.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstallationForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstManDetForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.InstMenuForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.LoginPageForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.MainMenuForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.Properties.Resources.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffMenuForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.StaffTypeForm.resources
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.GenerateResource.cache
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.CoreCompileInputs.cache
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.exe
+C:\Users\Micro Channel\Desktop\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.pdb
+G:\My Drive\ESOFT\ESOFT (1)\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.AssemblyReference.cache
+G:\My Drive\ESOFT\ESOFT (1)\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\ESOFT\ESOFT (1)\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.exe
+G:\My Drive\ESOFT\ESOFT (1)\SEMESTER 1\Unit 4 Database Design and Development\Assignment\Asignment T. Karshi SE51 DDD\DatabaseInterfaceDesign EDIT\DatabaseInterfaceDesign\obj\Debug\DatabaseInterfaceDesign.pdb
